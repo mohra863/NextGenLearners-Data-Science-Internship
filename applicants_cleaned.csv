@@ -1,0 +1,76 @@
+Applicant Name,Email,Phone,Domain Applied,University,Application Date,Status
+Omar Hassan,omar.hassan1@example.com,01085329037,Artificial Intelligence,AUC,2025-08-19,Under Review
+Nour Khaled,nour.khaled2@example.com,01038898923,Web Development,AUC,2025-06-28,Under Review
+Sara Ali,sara.ali3@example.com,01120576383,Cyber Security,BUE,2025-03-12,Selected
+Omar Hassan,omar.hassan4@example.com,01147308985,Web Development,BUE,2026-04-22,Under Review
+Nour Khaled,nour.khaled5@example.com,01160929647,Cyber Security,Not Specified,2025-11-11,Selected
+Hana Mostafa,not_provided@example.com,01252235350,UI/UX,Zagazig University,2025-05-05,Rejected
+Jana Sameh,jana.sameh7@example.com,01139436733,Artificial Intelligence,Ain Shams University,2025-05-02,Rejected
+Ahmed Mohamed,ahmed.duplicate@example.com,01012345678,Web Development,Cairo University,2026-12-05,Selected
+Karim Wael,karim.wael10@example.com,01210076758,Web Development,BUE,2026-02-04,Under Review
+Omar Hassan,omar.hassan11@example.com,01226879290,Artificial Intelligence,Helwan University,2026-09-28,Selected
+Salma Mahmoud,salma.mahmoud12@example.com,01297225156,Artificial Intelligence,Ain Shams University,2025-04-03,Under Review
+Mostafa Samir,not_provided@example.com,,Web Development,BUE,2025-09-08,Rejected
+Youssef Ibrahim,youssef.ibrahim14@example.com,01273440831,Artificial Intelligence,Alexandria University,2025-02-22,Selected
+Malak Ahmed,not_provided@example.com,01296728778,Data Science,Ain Shams University,2025-04-07,Under Review
+Farah Tarek,farah.tarek16@example.com,01069476001,Web Development,Cairo University,2025-02-25,Under Review
+Ziad Sherif,ziad.sherif17@example.com,01032097220,Data Science,Zagazig University,2026-07-23,Under Review
+Salma Mahmoud,salma.mahmoud18@example.com,,Cyber Security,Zagazig University,2025-01-17,Under Review
+Sara Ali,sara.duplicate@example.com,01087654321,Data Science,Helwan University,2026-05-12,Under Review
+Nada Emad,nada.emad21@example.com,01042787299,UI/UX,Not Specified,2026-10-26,Rejected
+Mariam Adel,mariam.adel22@example.com,01024366125,Data Science,Helwan Univ.,2025-11-12,Selected
+Farah Tarek,farah.tarek23@example.com,01095132217,Web Development,BUE,2025-09-11,Rejected
+Ali Gamal,ali.gamal24@example.com,01230005727,Cyber Security,Not Specified,2025-05-07,Selected
+Sara Ali,sara.ali25@example.com,01099514287,UI/UX,AUC,2025-04-28,Under Review
+Ahmed Mohamed,ahmed.mohamed26@example.com,01199913412,Data Science,Helwan University,2025-07-28,Rejected
+Malak Ahmed,malak.ahmed27@example.com,01039920292,Data Science,Mansoura University,2025-05-12,Rejected
+Ahmed Mohamed,ahmed.mohamed28@example.com,01087925434,Web Development,Helwan Univ.,2026-06-24,Rejected
+Nada Emad,nada.emad29@example.com,01044188276,Artificial Intelligence,Not Specified,2025-06-14,Selected
+Mariam Adel,mariam.adel30@example.com,01199508850,Data Science,Not Specified,2025-04-14,Under Review
+Amr Ashraf,amr.ashraf31@example.com,01148508907,Cyber Security,BUE,2026-08-15,Rejected
+Nour Khaled,nour.khaled32@example.com,01294951883,UI/UX,Alexandria University,2026-04-26,Under Review
+Mostafa Samir,mostafa.samir33@example.com,01071124923,Data Science,AUC,2026-08-07,Under Review
+Mariam Adel,mariam.adel34@example.com,01279519112,UI/UX,Ain Shams University,2026-03-26,Rejected
+Mahmoud Reda,mahmoud.reda35@example.com,01192228802,Artificial Intelligence,Not Specified,2026-03-24,Rejected
+Mostafa Samir,mostafa.samir36@example.com,01275041510,Web Development,Mansoura University,2025-05-11,Rejected
+Youssef Ibrahim,youssef.ibrahim37@example.com,01238716269,Artificial Intelligence,Zagazig University,2026-01-07,Rejected
+Jana Sameh,not_provided@example.com,01261053877,Data Science,AUC,2026-09-24,Rejected
+Ali Gamal,ali.gamal39@example.com,01264266464,UI/UX,Helwan University,2025-07-19,Under Review
+Youssef Ibrahim,youssef.ibrahim40@example.com,01160882459,Data Science,AUC,2026-09-07,Rejected
+Youssef Ibrahim,youssef.ibrahim42@example.com,01085694715,Data Science,BUE,2025-10-20,Under Review
+Mariam Adel,mariam.adel43@example.com,01260372847,Web Development,Helwan Univ.,2025-02-23,Under Review
+Jana Sameh,jana.sameh44@example.com,01198787891,Data Science,Cairo University,2026-08-04,Selected
+Malak Ahmed,malak.ahmed45@example.com,01280027662,UI/UX,Not Specified,2026-08-14,Selected
+Omar Hassan,omar.hassan46@example.com,01186483924,Web Development,Zagazig University,2026-03-16,Selected
+Hana Mostafa,hana.mostafa47@example.com,01184597009,Web Development,Alexandria University,2026-08-18,Rejected
+Ziad Sherif,not_provided@example.com,01139742165,Cyber Security,Helwan Univ.,2026-08-18,Rejected
+Khaled Fathy,khaled.fathy49@example.com,01151154241,Data Science,BUE,2025-12-18,Selected
+Ziad Sherif,ziad.sherif50@example.com,01290099897,Data Science,Mansoura University,2025-06-06,Under Review
+Youssef Ibrahim,youssef.ibrahim51@example.com,01249209916,UI/UX,Zagazig University,2025-01-19,Rejected
+Hana Mostafa,not_provided@example.com,01125312516,Web Development,Helwan Univ.,2025-03-05,Under Review
+Mariam Adel,mariam.adel53@example.com,01293002706,Artificial Intelligence,Zagazig University,2026-10-14,Under Review
+Mahmoud Reda,not_provided@example.com,01093955206,Web Development,Alexandria University,2025-03-09,Under Review
+Mahmoud Reda,not_provided@example.com,01147945817,Cyber Security,Alexandria University,2026-11-19,Rejected
+Mostafa Samir,mostafa.samir56@example.com,01019584466,Cyber Security,Helwan Univ.,2026-08-04,Selected
+Farah Tarek,farah.tarek57@example.com,01090267122,Data Science,Helwan Univ.,2026-03-01,Under Review
+Ahmed Mohamed,ahmed.mohamed58@example.com,01187342561,Artificial Intelligence,Not Specified,2026-05-06,Rejected
+Ziad Sherif,ziad.sherif59@example.com,01224039158,Cyber Security,Zagazig University,2026-11-13,Rejected
+Farah Tarek,farah.tarek60@example.com,,UI/UX,Not Specified,2026-02-07,Rejected
+Ziad Sherif,ziad.sherif61@example.com,01045843681,Artificial Intelligence,Zagazig University,2025-01-21,Under Review
+Ahmed Mohamed,not_provided@example.com,01071934487,Web Development,Zagazig University,2026-09-23,Rejected
+Ziad Sherif,ziad.sherif63@example.com,01135583290,UI/UX,Helwan University,2025-05-25,Selected
+Nada Emad,not_provided@example.com,01250071487,Cyber Security,Zagazig University,2025-08-18,Selected
+Khaled Fathy,khaled.fathy65@example.com,01042051937,UI/UX,AUC,2025-06-24,Rejected
+Youssef Ibrahim,not_provided@example.com,01289212676,UI/UX,Zagazig University,2025-09-15,Under Review
+Youssef Ibrahim,youssef.ibrahim67@example.com,01155440919,Web Development,BUE,2026-06-21,Rejected
+Omar Hassan,omar.hassan68@example.com,01140532691,Web Development,Ain Shams University,2026-03-23,Under Review
+Sara Ali,sara.ali69@example.com,01042775624,UI/UX,Helwan University,2025-03-03,Under Review
+Ziad Sherif,ziad.sherif70@example.com,01195618110,Web Development,Zagazig University,2026-11-18,Under Review
+Karim Wael,karim.wael71@example.com,01143567615,Artificial Intelligence,Zagazig University,2025-04-13,Under Review
+Karim Wael,karim.wael73@example.com,01198473848,Web Development,Cairo University,2026-08-02,Under Review
+Amr Ashraf,amr.ashraf74@example.com,01027738187,Data Science,Not Specified,2026-03-09,Selected
+Hana Mostafa,hana.mostafa75@example.com,01028892086,Cyber Security,AUC,2026-02-26,Under Review
+Mariam Adel,mariam.adel76@example.com,01245186708,Data Science,Ain Shams University,2025-08-01,Under Review
+Omar Hassan,omar.hassan77@example.com,01250559278,Web Development,Cairo University,2026-04-08,Selected
+Youssef Ibrahim,youssef.ibrahim78@example.com,01282503409,Web Development,AUC,2025-08-20,Selected
+Karim Wael,karim.wael79@example.com,01058678896,Artificial Intelligence,BUE,2025-09-07,Under Review
